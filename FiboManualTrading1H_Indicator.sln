@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiboManualTrading1H_Indicator", "FiboManualTrading1H_Indicator\FiboManualTrading1H_Indicator.csproj", "{56A2B6C0-469C-44E9-9D71-B75E7AA42177}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56A2B6C0-469C-44E9-9D71-B75E7AA42177}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56A2B6C0-469C-44E9-9D71-B75E7AA42177}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56A2B6C0-469C-44E9-9D71-B75E7AA42177}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56A2B6C0-469C-44E9-9D71-B75E7AA42177}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
